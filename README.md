@@ -5,4 +5,5 @@ This is the raw testing version (with A/D and arrow key controls) and is **NOT**
 Code adapted and inspired by multiple Stack Overflow resources. 
 
 7.15.25 added restart mechanic 2 seconds after game over
+
 7.16.25 used to work on a local copy, now uploaded to GitHub.
